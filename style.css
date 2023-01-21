@@ -240,18 +240,3 @@ td, th {
     margin: 2em auto;
 }
 
-main > p {
-    background-color: red;
-}
-
-img + p{
-    background-color: blue;
-}
-
-img ~ p {
-    background-color: yellow;
-}
-
-.principal p:not(#missao) {
-    background-color: orange;
-}
